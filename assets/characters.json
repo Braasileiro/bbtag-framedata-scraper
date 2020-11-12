@@ -1,0 +1,279 @@
+{
+    "Ragna the Bloodedge": {
+        "color": "0x0c9deb",
+        "json": "ragna",
+        "url": "Ragna_the_Bloodedge"
+    },
+    "Jin Kisaragi": {
+        "color": "0x0c9deb",
+        "json": "jin",
+        "url": "Jin_Kisaragi"
+    },
+    "Noel Vermillion": {
+        "color": "0x0c9deb",
+        "json": "noel",
+        "url": "Noel_Vermillion"
+    },
+    "Rachel Alucard": {
+        "color": "0x0c9deb",
+        "json": "rachel",
+        "url": "Rachel_Alucard"
+    },
+    "Iron Tager": {
+        "color": "0x0c9deb",
+        "json": "tager",
+        "url": "Iron_Tager"
+    },
+    "Hakumen": {
+        "color": "0x0c9deb",
+        "json": "hakumen",
+        "url": "Hakumen"
+    },
+    "Nu-13": {
+        "color": "0x0c9deb",
+        "json": "nu-13",
+        "url": "Nu-13"
+    },
+    "Hazama": {
+        "color": "0x0c9deb",
+        "json": "hazama",
+        "url": "Hazama"
+    },
+    "Makoto Nanaya": {
+        "color": "0x0c9deb",
+        "json": "makoto",
+        "url": "Makoto_Nanaya"
+    },
+    "Platinum the Trinity": {
+        "color": "0x0c9deb",
+        "json": "platinum",
+        "url": "Platinum_the_Trinity"
+    },
+    "Izayoi": {
+        "color": "0x0c9deb",
+        "json": "izayoi",
+        "url": "Izayoi"
+    },
+    "Azrael": {
+        "color": "0x0c9deb",
+        "json": "azrael",
+        "url": "Azrael"
+    },
+    "Celica A. Mercury": {
+        "color": "0x0c9deb",
+        "json": "celica",
+        "url": "Celica_A._Mercury"
+    },
+    "Nine the Phantom": {
+        "color": "0x0c9deb",
+        "json": "nine",
+        "url": "Nine_the_Phantom"
+    },
+    "Naoto Kurogane": {
+        "color": "0x0c9deb",
+        "json": "naoto",
+        "url": "Naoto_Kurogane"
+    },
+    "Susano'o": {
+        "color": "0x0c9deb",
+        "json": "susanoo",
+        "url": "Susano'o"
+    },
+    "Es": {
+        "color": "0x0c9deb",
+        "json": "es",
+        "url": "Es"
+    },
+    "Mai Natsume": {
+        "color": "0x0c9deb",
+        "json": "mai",
+        "url": "Mai_Natsume"
+    },
+    "Jubei": {
+        "color": "0x0c9deb",
+        "json": "jubei",
+        "url": "Jubei"
+    },
+
+
+    "Yu Narukami": {
+        "color": "0xffd233",
+        "json": "yu",
+        "url": "Yu_Narukami"
+    },
+    "Yosuke Hanamura": {
+        "color": "0xffd233",
+        "json": "yosuke",
+        "url": "Yosuke_Hanamura"
+    },
+    "Chie Satonaka": {
+        "color": "0xffd233",
+        "json": "chie",
+        "url": "Chie_Satonaka"
+    },
+    "Yukiko Amagi": {
+        "color": "0xffd233",
+        "json": "yukiko",
+        "url": "Yukiko_Amagi"
+    },
+    "Kanji Tatsumi": {
+        "color": "0xffd233",
+        "json": "kanji",
+        "url": "Kanji_Tatsumi"
+    },
+    "Teddie": {
+        "color": "0xffd233",
+        "json": "teddie",
+        "url": "Teddie"
+    },
+    "Naoto Shirogane": {
+        "color": "0xffd233",
+        "json": "shirogane",
+        "url": "Naoto_Shirogane"
+    },
+    "Mitsuru Kirijo": {
+        "color": "0xffd233",
+        "json": "mitsuru",
+        "url": "Mitsuru_Kirijo"
+    },
+    "Akihiko Sanada": {
+        "color": "0xffd233",
+        "json": "akihiko",
+        "url": "Akihiko_Sanada"
+    },
+    "Aegis": {
+        "color": "0xffd233",
+        "json": "aegis",
+        "url": "Aegis"
+    },
+    "Elizabeth": {
+        "color": "0xffd233",
+        "json": "elizabeth",
+        "url": "Elizabeth"
+    },
+    "Labrys": {
+        "color": "0xffd233",
+        "json": "labrys",
+        "url": "Labrys"
+    },
+    "Tohru Adachi": {
+        "color": "0xffd233",
+        "json": "adachi",
+        "url": "Tohru_Adachi"
+    },
+
+
+    "Hyde": {
+        "color": "0x9038b8",
+        "json": "hyde",
+        "url": "Hyde"
+    },
+    "Linne": {
+        "color": "0x9038b8",
+        "json": "linne",
+        "url": "Linne"
+    },
+    "Waldstein": {
+        "color": "0x9038b8",
+        "json": "waldstein",
+        "url": "Waldstein"
+    },
+    "Carmine": {
+        "color": "0x9038b8",
+        "json": "carmine",
+        "url": "Carmine"
+    },
+    "Orie": {
+        "color": "0x9038b8",
+        "json": "orie",
+        "url": "Orie"
+    },
+    "Gordeau": {
+        "color": "0x9038b8",
+        "json": "gordeau",
+        "url": "Gordeau"
+    },
+    "Merkava": {
+        "color": "0x9038b8",
+        "json": "merkava",
+        "url": "Merkava"
+    },
+    "Vatista": {
+        "color": "0x9038b8",
+        "json": "vatista",
+        "url": "Vatista"
+    },
+    "Seth": {
+        "color": "0x9038b8",
+        "json": "seth",
+        "url": "Seth"
+    },
+    "Yuzuriha": {
+        "color": "0x9038b8",
+        "json": "yuzuriha",
+        "url": "Yuzuriha"
+    },
+    "Hilda": {
+        "color": "0x9038b8",
+        "json": "hilda",
+        "url": "Hilda"
+    },
+    "Mika": {
+        "color": "0x9038b8",
+        "json": "mika",
+        "url": "Mika"
+    },
+
+
+    "Ruby Rose": {
+        "color": "0xff6180",
+        "json": "ruby",
+        "url": "Ruby_Rose"
+    },
+    "Weiss Schnee": {
+        "color": "0xff6180",
+        "json": "weiss",
+        "url": "Weiss_Schnee"
+    },
+    "Blake Belladonna": {
+        "color": "0xff6180",
+        "json": "blake",
+        "url": "Blake_Belladonna"
+    },
+    "Yang Xiao Long": {
+        "color": "0xff6180",
+        "json": "yang",
+        "url": "Yang_Xiao_Long"
+    },
+    "Neo Politan": {
+        "color": "0xff6180",
+        "json": "neo",
+        "url": "Neo_Politan"
+    },
+
+
+    "Heart Aino": {
+        "color": "0xea44d1",
+        "json": "heart",
+        "url": "Heart_Aino"
+    },
+
+
+    "Yumi": {
+        "color": "0xcbeaff",
+        "json": "yumi",
+        "url": "Yumi"
+    },
+
+
+    "Akatsuki": {
+        "color": "0x7a6a49",
+        "json": "akatsuki",
+        "url": "Akatsuki"
+    },
+    "Blitztank": {
+        "color": "0x7a6a49",
+        "json": "blitztank",
+        "url": "Blitztank"
+    }
+}
